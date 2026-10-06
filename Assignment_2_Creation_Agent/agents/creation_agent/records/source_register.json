@@ -1,0 +1,37 @@
+[
+  {
+    "claim": "The Transformer combined attention-based sequence modeling with a more parallelizable architecture, demonstrated on translation tasks.",
+    "source_or_reference": "Vaswani et al. (2017), Attention Is All You Need. https://arxiv.org/abs/1706.03762",
+    "date_or_recency": "Published 2017; abstract and submission history checked 2026-10-06 UTC",
+    "evidence_type": "Original research; abstract verified",
+    "notes": "Historical architecture evidence; not proof of performance in either hypothetical organization."
+  },
+  {
+    "claim": "GPT-3 demonstrated task adaptation from text examples without task-specific parameter updates, with uneven results across tasks.",
+    "source_or_reference": "Brown et al. (2020), Language Models are Few-Shot Learners. https://arxiv.org/abs/2005.14165",
+    "date_or_recency": "Published 2020; abstract and submission history checked 2026-10-06 UTC",
+    "evidence_type": "Original research; abstract verified",
+    "notes": "Supports a historical scaling and pretraining milestone; not a current model benchmark."
+  },
+  {
+    "claim": "InstructGPT combined supervised demonstrations and human-preference reinforcement learning; instruction-following improved but mistakes remained.",
+    "source_or_reference": "Ouyang et al. (2022), Training language models to follow instructions with human feedback. https://arxiv.org/abs/2203.02155",
+    "date_or_recency": "Published 2022; abstract and submission history checked 2026-10-06 UTC",
+    "evidence_type": "Original research; abstract verified",
+    "notes": "Supports the distinction between instruction-following and guaranteed correctness."
+  },
+  {
+    "claim": "Training-data extraction was demonstrated against GPT-2, including some publicly available personal information.",
+    "source_or_reference": "Carlini et al. (2020; revised 2021), Extracting Training Data from Large Language Models. https://arxiv.org/abs/2012.07805",
+    "date_or_recency": "Original abstract and submission history checked 2026-10-06",
+    "evidence_type": "Original research; historical demonstration",
+    "notes": "Not proof that a current service trains on customer uploads or leaks them. Scope: GPT-2 experiment."
+  },
+  {
+    "claim": "Indirect prompt injection was demonstrated in LLM-integrated applications through instructions embedded in retrieved data.",
+    "source_or_reference": "Greshake et al. (2023), Not what you have signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection. https://arxiv.org/abs/2302.12173",
+    "date_or_recency": "Original abstract and submission history checked 2026-10-06",
+    "evidence_type": "Original research; historical demonstration",
+    "notes": "Mechanism evidence, not a current vulnerability determination for an unspecified product."
+  }
+]

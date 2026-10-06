@@ -1,0 +1,11 @@
+boundary_privacy.json: full input schema PASS
+contrast_1.json: full input schema PASS
+primary.json: full input schema PASS
+boundary_privacy_response.json: VALIDATION PASSED
+boundary_privacy_response.json: full output schema PASS
+contrast_1_response.json: VALIDATION PASSED
+contrast_1_response.json: full output schema PASS
+primary_response.json: VALIDATION PASSED
+primary_response.json: full output schema PASS
+General finding intentionally stable across common evidence; qualitative comparison documented separately.
+FROZEN CORE INTACT

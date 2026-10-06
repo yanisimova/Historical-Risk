@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Instruction-tuned, transformer-based large language models (LLMs)",
+  "intended_application": "Summarize confidential client interviews and strategy reports, then send summaries directly to clients without analyst approval",
+  "organization": "Hypothetical small analytical consulting firm",
+  "industry_sector": "Professional services / business analytics",
+  "business_need": "Accelerate client reporting with minimal review",
+  "users_stakeholders": "Analysts, project managers and eventual client recipients",
+  "adoption_posture": "Aggressive / leading edge",
+  "capabilities_constraints": "Two analysts; client names and nonpublic business information in inputs; provider retention/training-use/access terms unverified; proposed cross-client document retrieval and email connector; no security testing supplied",
+  "risk_consequence_context": "Potential exposure of confidential information, cross-client disclosure, misleading client advice and reputational harm; external delivery is difficult to fully reverse",
+  "management_question": "Does the GPT-2 extraction study prove that our unnamed current vendor trains on our client uploads and will leak them?",
+  "time_horizon": "A six-week exploratory evaluation, not a production commitment",
+  "additional_context": "Boundary challenge: reject the unsupported inference in the question. Current vendor, model, settings and contract are unspecified."
+}

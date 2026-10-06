@@ -1,0 +1,11 @@
+primary_response_v1: VALIDATION PASSED
+primary_response: VALIDATION PASSED
+contrast_1_response: VALIDATION PASSED
+contrast_1.json: FULL INPUT SCHEMA PASSED
+primary.json: FULL INPUT SCHEMA PASSED
+primary_response_v1.json: FULL OUTPUT SCHEMA PASSED
+primary_response.json: FULL OUTPUT SCHEMA PASSED
+contrast_1_response.json: FULL OUTPUT SCHEMA PASSED
+General creation finding stable: PASSED (same supplied technology and historical evidence)
+Application and organizational findings differ: PASSED; see comparison.md for qualitative assessment
+FROZEN CORE INTACT

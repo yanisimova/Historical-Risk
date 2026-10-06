@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Instruction-tuned, transformer-based large language models (LLMs)",
+  "intended_application": "Draft internal summaries of public market-research documents, with citations checked by an analyst",
+  "organization": "Hypothetical small analytical consulting firm",
+  "industry_sector": "Professional services / business analytics",
+  "business_need": "Reduce time spent on first-pass document synthesis",
+  "users_stakeholders": "Analysts, project managers and eventual client recipients",
+  "adoption_posture": "Moderate / fast follower",
+  "capabilities_constraints": "Two analysts; public reports only; no email, file-store or execution connectors; source checking before reuse; provider, model and service configuration unspecified",
+  "risk_consequence_context": "Reversible internal drafts; unsupported claims can mislead later analysis if review fails",
+  "management_question": "Which historically grounded accuracy, privacy and security red flags should a small consulting firm investigate before using LLM summaries?",
+  "time_horizon": "A six-week exploratory evaluation, not a production commitment",
+  "additional_context": "Hypothetical instructional case. No sensitive client files are uploaded. Original historical sources are embedded in the specialist instructions. Evaluate risks; do not perform document summarization or operate business systems."
+}
